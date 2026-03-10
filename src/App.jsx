@@ -124,7 +124,7 @@ const HOSPITALITY_EXPERIENCE = [
 const ENGINEERING_EXPERIENCE = [
   {
     period: "2020 – Present",
-    role: "Golf Course Maintenance Manager",
+    role: "Golf Course Maintenance General",
     company: "Golf Club Gerre Losone",
     location: "Switzerland",
     highlights: [
