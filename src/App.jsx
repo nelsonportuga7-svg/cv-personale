@@ -105,7 +105,7 @@ const HOSPITALITY_EXPERIENCE = [
   {
     period: "2010 – 2015",
     role: "Administrative & Operational Manager",
-    company: "Gruppo CIATC – Cucina Italiana & Francese",
+    company: "Gruppo CIATC – Italian & French Cuisine",
     location: "São Paulo, Brazil",
     highlights: [
       "Administrative and operational management of all group restaurants, ensuring managerial consistency, high quality standards and brand positioning alignment",
@@ -279,7 +279,7 @@ const AI_COMPETENCIES = [
 ];
 
 const EDUCATION = [
-  { year: "2024–2025", title: "Artificial Intelligence Course", org: "Academia Lendaria, Brasil", detail: "AI Agents, Vibe Coding and AI-based systems implementation" },
+  { year: "2024–2025", title: "AI Business Specialist Course", org: "Academia Lendaria, Brasil", detail: "AI Agents, Vibe Coding and AI-based systems implementation" },
   { year: "2023", title: "TORO Irrigation Course", org: "PRATOVERDE / TORO, Italy", detail: "System, programming and TORO product maintenance" },
   { year: "2017", title: "Neurocoaching Course", org: "Fellipelli, São Paulo", detail: "Motivation management, communication and neuroscience methodologies" },
   { year: "2015", title: "Craft Beer Sommelier", org: "ABS – São Paulo", detail: "" },
